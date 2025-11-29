@@ -42,8 +42,8 @@ Server  PC1 (Win 8 A)   PC2 (Win 8 B)
 | Device        | IP Address      | Role                        |
 |---------------|----------------|-----------------------------|
 | Windows Server| 10.0.2.15  | AD Domain Controller (DC)   |
-| Windows 8 PC  | DHCP    | Client (Accounts)           |
-| Windows XP PC | DHCP    | Legacy Client               |
+| Windows 8 A PC  | DHCP    | Client (IT)           |
+| Windows 8 B PC | DHCP    | Client (Sales)        |
 
 ---
 
