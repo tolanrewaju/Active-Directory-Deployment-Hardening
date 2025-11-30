@@ -1,6 +1,6 @@
 # Active-Directory-Deployment-Hardening - Secure domain controller with baseline GPOs
 
-# Active Directory Simulation – CyberTech Solutions
+# Active Directory Simulation – CyberTech AI Solutions
 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **CyberTech Solutions**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
 
